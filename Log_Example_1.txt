@@ -1,0 +1,308 @@
+Current Time: 0
+Waiting clients: (2,7,4) (4,11,4) (1,21,3) (3,28,4) 
+Queue:0 Closed
+Queue:1 Closed
+
+Current Time: 1
+Waiting clients: (2,7,4) (4,11,4) (1,21,3) (3,28,4) 
+Queue:0 Closed
+Queue:1 Closed
+
+Current Time: 2
+Waiting clients: (2,7,4) (4,11,4) (1,21,3) (3,28,4) 
+Queue:0 Closed
+Queue:1 Closed
+
+Current Time: 3
+Waiting clients: (2,7,4) (4,11,4) (1,21,3) (3,28,4) 
+Queue:0 Closed
+Queue:1 Closed
+
+Current Time: 4
+Waiting clients: (2,7,4) (4,11,4) (1,21,3) (3,28,4) 
+Queue:0 Closed
+Queue:1 Closed
+
+Current Time: 5
+Waiting clients: (2,7,4) (4,11,4) (1,21,3) (3,28,4) 
+Queue:0 Closed
+Queue:1 Closed
+
+Current Time: 6
+Waiting clients: (2,7,4) (4,11,4) (1,21,3) (3,28,4) 
+Queue:0 Closed
+Queue:1 Closed
+
+Current Time: 7
+Waiting clients: (4,11,4) (1,21,3) (3,28,4) 
+Queue:0 (2,7,4)  
+Queue:1 Closed
+
+Current Time: 8
+Waiting clients: (4,11,4) (1,21,3) (3,28,4) 
+Queue:0 (2,7,3)  
+Queue:1 Closed
+
+Current Time: 9
+Waiting clients: (4,11,4) (1,21,3) (3,28,4) 
+Queue:0 (2,7,2)  
+Queue:1 Closed
+
+Current Time: 10
+Waiting clients: (4,11,4) (1,21,3) (3,28,4) 
+Queue:0 (2,7,1)  
+Queue:1 Closed
+
+Current Time: 11
+Waiting clients: (1,21,3) (3,28,4) 
+Queue:0 (4,11,4)  
+Queue:1 Closed
+
+Current Time: 12
+Waiting clients: (1,21,3) (3,28,4) 
+Queue:0 (4,11,3)  
+Queue:1 Closed
+
+Current Time: 13
+Waiting clients: (1,21,3) (3,28,4) 
+Queue:0 (4,11,2)  
+Queue:1 Closed
+
+Current Time: 14
+Waiting clients: (1,21,3) (3,28,4) 
+Queue:0 (4,11,1)  
+Queue:1 Closed
+
+Current Time: 15
+Waiting clients: (1,21,3) (3,28,4) 
+Queue:0 Closed
+Queue:1 Closed
+
+Current Time: 16
+Waiting clients: (1,21,3) (3,28,4) 
+Queue:0 Closed
+Queue:1 Closed
+
+Current Time: 17
+Waiting clients: (1,21,3) (3,28,4) 
+Queue:0 Closed
+Queue:1 Closed
+
+Current Time: 18
+Waiting clients: (1,21,3) (3,28,4) 
+Queue:0 Closed
+Queue:1 Closed
+
+Current Time: 19
+Waiting clients: (1,21,3) (3,28,4) 
+Queue:0 Closed
+Queue:1 Closed
+
+Current Time: 20
+Waiting clients: (1,21,3) (3,28,4) 
+Queue:0 Closed
+Queue:1 Closed
+
+Current Time: 21
+Waiting clients: (3,28,4) 
+Queue:0 (1,21,3)  
+Queue:1 Closed
+
+Current Time: 22
+Waiting clients: (3,28,4) 
+Queue:0 (1,21,2)  
+Queue:1 Closed
+
+Current Time: 23
+Waiting clients: (3,28,4) 
+Queue:0 (1,21,1)  
+Queue:1 Closed
+
+Current Time: 24
+Waiting clients: (3,28,4) 
+Queue:0 Closed
+Queue:1 Closed
+
+Current Time: 25
+Waiting clients: (3,28,4) 
+Queue:0 Closed
+Queue:1 Closed
+
+Current Time: 26
+Waiting clients: (3,28,4) 
+Queue:0 Closed
+Queue:1 Closed
+
+Current Time: 27
+Waiting clients: (3,28,4) 
+Queue:0 Closed
+Queue:1 Closed
+
+Current Time: 28
+Waiting clients: 
+Queue:0 (3,28,4)  
+Queue:1 Closed
+
+Current Time: 29
+Waiting clients: 
+Queue:0 (3,28,3)  
+Queue:1 Closed
+
+Current Time: 30
+Waiting clients: 
+Queue:0 (3,28,2)  
+Queue:1 Closed
+
+Current Time: 31
+Waiting clients: 
+Queue:0 (3,28,1)  
+Queue:1 Closed
+
+Current Time: 32
+Waiting clients: 
+Queue:0 Closed
+Queue:1 Closed
+
+Current Time: 33
+Waiting clients: 
+Queue:0 Closed
+Queue:1 Closed
+
+Current Time: 34
+Waiting clients: 
+Queue:0 Closed
+Queue:1 Closed
+
+Current Time: 35
+Waiting clients: 
+Queue:0 Closed
+Queue:1 Closed
+
+Current Time: 36
+Waiting clients: 
+Queue:0 Closed
+Queue:1 Closed
+
+Current Time: 37
+Waiting clients: 
+Queue:0 Closed
+Queue:1 Closed
+
+Current Time: 38
+Waiting clients: 
+Queue:0 Closed
+Queue:1 Closed
+
+Current Time: 39
+Waiting clients: 
+Queue:0 Closed
+Queue:1 Closed
+
+Current Time: 40
+Waiting clients: 
+Queue:0 Closed
+Queue:1 Closed
+
+Current Time: 41
+Waiting clients: 
+Queue:0 Closed
+Queue:1 Closed
+
+Current Time: 42
+Waiting clients: 
+Queue:0 Closed
+Queue:1 Closed
+
+Current Time: 43
+Waiting clients: 
+Queue:0 Closed
+Queue:1 Closed
+
+Current Time: 44
+Waiting clients: 
+Queue:0 Closed
+Queue:1 Closed
+
+Current Time: 45
+Waiting clients: 
+Queue:0 Closed
+Queue:1 Closed
+
+Current Time: 46
+Waiting clients: 
+Queue:0 Closed
+Queue:1 Closed
+
+Current Time: 47
+Waiting clients: 
+Queue:0 Closed
+Queue:1 Closed
+
+Current Time: 48
+Waiting clients: 
+Queue:0 Closed
+Queue:1 Closed
+
+Current Time: 49
+Waiting clients: 
+Queue:0 Closed
+Queue:1 Closed
+
+Current Time: 50
+Waiting clients: 
+Queue:0 Closed
+Queue:1 Closed
+
+Current Time: 51
+Waiting clients: 
+Queue:0 Closed
+Queue:1 Closed
+
+Current Time: 52
+Waiting clients: 
+Queue:0 Closed
+Queue:1 Closed
+
+Current Time: 53
+Waiting clients: 
+Queue:0 Closed
+Queue:1 Closed
+
+Current Time: 54
+Waiting clients: 
+Queue:0 Closed
+Queue:1 Closed
+
+Current Time: 55
+Waiting clients: 
+Queue:0 Closed
+Queue:1 Closed
+
+Current Time: 56
+Waiting clients: 
+Queue:0 Closed
+Queue:1 Closed
+
+Current Time: 57
+Waiting clients: 
+Queue:0 Closed
+Queue:1 Closed
+
+Current Time: 58
+Waiting clients: 
+Queue:0 Closed
+Queue:1 Closed
+
+Current Time: 59
+Waiting clients: 
+Queue:0 Closed
+Queue:1 Closed
+
+Current Time: 60
+Waiting clients: 
+Queue:0 Closed
+Queue:1 Closed
+
+Average service time: 3.75
+Peak Hour was: 7
+Waiting time: 0.0
